@@ -1,4 +1,4 @@
-# keyboard_firmward
+# keyboard_firmware
 
 Setting Instructions: https://github.com/Massdrop/mdloader
 
